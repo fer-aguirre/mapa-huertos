@@ -1,0 +1,32 @@
+.navbar-brand{
+    font-size: 20px;
+}
+
+.navbar a:hover{
+    transform: scale(1.1);
+}
+
+
+.menu-items{
+    font-size: 18px;
+    text-align: right;
+}
+
+.modal-header{
+    background-color: rgb(6, 87, 13);
+    
+}
+
+.modal-title{
+    color: white;
+}
+
+.modal-body{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.modal-body a{
+    color:rgb(35, 167, 1);
+}

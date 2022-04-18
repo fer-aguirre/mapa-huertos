@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f4a8b43.chunk.css",
+    "main.js": "/static/js/main.d0f01d1e.chunk.js",
+    "main.js.map": "/static/js/main.d0f01d1e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14bcd67b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14bcd67b.js.map",
+    "static/css/2.da1eef19.chunk.css": "/static/css/2.da1eef19.chunk.css",
+    "static/js/2.92d9d195.chunk.js": "/static/js/2.92d9d195.chunk.js",
+    "static/js/2.92d9d195.chunk.js.map": "/static/js/2.92d9d195.chunk.js.map",
+    "static/js/3.40c77cdd.chunk.js": "/static/js/3.40c77cdd.chunk.js",
+    "static/js/3.40c77cdd.chunk.js.map": "/static/js/3.40c77cdd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.1f4a8b43.chunk.css.map": "/static/css/main.1f4a8b43.chunk.css.map",
+    "static/js/2.92d9d195.chunk.js.LICENSE.txt": "/static/js/2.92d9d195.chunk.js.LICENSE.txt",
+    "static/media/earthworm.1152d943.svg": "/static/media/earthworm.1152d943.svg",
+    "static/media/harvest.dc48420f.svg": "/static/media/harvest.dc48420f.svg",
+    "static/media/planet-earth.8a4a7b75.svg": "/static/media/planet-earth.8a4a7b75.svg",
+    "static/media/spinach.b7e543ed.svg": "/static/media/spinach.b7e543ed.svg",
+    "static/media/sprout.30576d67.svg": "/static/media/sprout.30576d67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14bcd67b.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.92d9d195.chunk.js",
+    "static/css/main.1f4a8b43.chunk.css",
+    "static/js/main.d0f01d1e.chunk.js"
+  ]
+}
