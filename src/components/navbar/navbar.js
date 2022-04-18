@@ -14,11 +14,11 @@ const Menu = () => {
     return(
         <Navbar expand="lg" bg="dark" variant="dark">
             <Container>
-            <Navbar.Brand><img className="logo" alt="mapeo-huertos" src={logo} width="40px" height="40px" /> Mapeo de Huertos</Navbar.Brand>
+            <Navbar.Brand><img className="logo" alt="mapa-huertos" src={logo} width="40px" height="40px" /> Mapa Huertos</Navbar.Brand>
             <Nav className="menu-items">
-            <Nav.Link href="/">Home<img className="logo" alt="mapeo-huertos" src={icon1} width="30px" height="30px" /></Nav.Link>
-            <Nav.Link onClick={() => setLgShow(true)}>Info<img className="logo" alt="mapeo-huertos" src={icon2} width="27px" height="30px" /></Nav.Link>
-            <Nav.Link href="#contacto">Contacto <img className="logo" alt="mapeo-huertos" src={icon3} width="27px" height="30px" /></Nav.Link>
+            <Nav.Link href="/">Home<img className="logo" alt="mapa-huertos" src={icon1} width="30px" height="30px" /></Nav.Link>
+            <Nav.Link onClick={() => setLgShow(true)}>Acerca de<img className="logo" alt="mapa-huertos" src={icon2} width="27px" height="30px" /></Nav.Link>
+            <Nav.Link href="#contacto">Contacto <img className="logo" alt="mapa-huertos" src={icon3} width="27px" height="30px" /></Nav.Link>
             
             <Modal
             size="lg"

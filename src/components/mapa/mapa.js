@@ -5,9 +5,8 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import data from './huertos.json';
 
 
-
 const icon = new Icon({
-  iconUrl: 'https://image.flaticon.com/icons/png/512/2227/2227504.png',
+  iconUrl: 'https://raw.githubusercontent.com/fer-aguirre/mapa-huertos-urbanos/main/src/components/mapa/plant.png',
   iconSize: [50, 50],
   iconAnchor: [20, 40],
   shadowUrl: "https://unpkg.com/leaflet@1.6/dist/images/marker-shadow.png",
@@ -22,7 +21,7 @@ const icon = new Icon({
 export default function Mapa(){
 
   return (
-    <MapContainer center={[19.427074398015293, -99.12289930564387]} zoom={6}>
+    <MapContainer center={[19.427074398015293, -99.12289930564387]} zoom={7}>
 
       <TileLayer
         url="https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png"
