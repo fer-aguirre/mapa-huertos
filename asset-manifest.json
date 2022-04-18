@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fer-aguirre/mapa-huertos/static/css/main.1f4a8b43.chunk.css",
+    "main.js": "/fer-aguirre/mapa-huertos/static/js/main.935c0d50.chunk.js",
+    "main.js.map": "/fer-aguirre/mapa-huertos/static/js/main.935c0d50.chunk.js.map",
+    "runtime-main.js": "/fer-aguirre/mapa-huertos/static/js/runtime-main.07ccf040.js",
+    "runtime-main.js.map": "/fer-aguirre/mapa-huertos/static/js/runtime-main.07ccf040.js.map",
+    "static/css/2.da1eef19.chunk.css": "/fer-aguirre/mapa-huertos/static/css/2.da1eef19.chunk.css",
+    "static/js/2.00a0425a.chunk.js": "/fer-aguirre/mapa-huertos/static/js/2.00a0425a.chunk.js",
+    "static/js/2.00a0425a.chunk.js.map": "/fer-aguirre/mapa-huertos/static/js/2.00a0425a.chunk.js.map",
+    "static/js/3.735e0366.chunk.js": "/fer-aguirre/mapa-huertos/static/js/3.735e0366.chunk.js",
+    "static/js/3.735e0366.chunk.js.map": "/fer-aguirre/mapa-huertos/static/js/3.735e0366.chunk.js.map",
+    "index.html": "/fer-aguirre/mapa-huertos/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/fer-aguirre/mapa-huertos/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.1f4a8b43.chunk.css.map": "/fer-aguirre/mapa-huertos/static/css/main.1f4a8b43.chunk.css.map",
+    "static/js/2.00a0425a.chunk.js.LICENSE.txt": "/fer-aguirre/mapa-huertos/static/js/2.00a0425a.chunk.js.LICENSE.txt",
+    "static/media/earthworm.1152d943.svg": "/fer-aguirre/mapa-huertos/static/media/earthworm.1152d943.svg",
+    "static/media/harvest.dc48420f.svg": "/fer-aguirre/mapa-huertos/static/media/harvest.dc48420f.svg",
+    "static/media/planet-earth.8a4a7b75.svg": "/fer-aguirre/mapa-huertos/static/media/planet-earth.8a4a7b75.svg",
+    "static/media/spinach.b7e543ed.svg": "/fer-aguirre/mapa-huertos/static/media/spinach.b7e543ed.svg",
+    "static/media/sprout.30576d67.svg": "/fer-aguirre/mapa-huertos/static/media/sprout.30576d67.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ccf040.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.00a0425a.chunk.js",
+    "static/css/main.1f4a8b43.chunk.css",
+    "static/js/main.935c0d50.chunk.js"
+  ]
+}
