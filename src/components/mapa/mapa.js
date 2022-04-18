@@ -6,7 +6,7 @@ import data from './huertos.json';
 
 
 const icon = new Icon({
-  iconUrl: 'https://raw.githubusercontent.com/fer-aguirre/mapa-huertos-urbanos/main/src/components/mapa/plant.png',
+  iconUrl: 'https://raw.githubusercontent.com/fer-aguirre/mapa-huertos/main/src/components/mapa/seed.png',
   iconSize: [50, 50],
   iconAnchor: [20, 40],
   shadowUrl: "https://unpkg.com/leaflet@1.6/dist/images/marker-shadow.png",
